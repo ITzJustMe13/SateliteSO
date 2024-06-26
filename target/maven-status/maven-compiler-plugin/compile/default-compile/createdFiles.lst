@@ -1,0 +1,17 @@
+Sistema\Monitor$WaitNotify.class
+Sistema\WorkerThread.class
+Sistema\Sinal.class
+Sistema\SensorTemp$BufferTempAdd.class
+Sistema\Middleware$BufferAdd.class
+Sistema\Middleware$ClientHandler.class
+Sistema\Monitor.class
+Sistema\Kernel.class
+Cliente\Station.class
+Sistema\Mem.class
+Sistema\Middleware.class
+Sistema\Kernel$MovimentoSatelite.class
+Sistema\Cpu.class
+Sistema\Kernel$BufferTempRead.class
+Sistema\Main.class
+Sistema\MonitorNext.class
+Sistema\SensorTemp.class
